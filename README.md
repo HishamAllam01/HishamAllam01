@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hisham Allam
 - 👀 I’m interested in Fron-end development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on HTML & CSS & JavaScript
+- 💞️ I’m looking to collaborate on HTML & CSS & JavaScript projects
 - 📫 How to reach me over Email: hisham.m.allam@outlook.com
 
 <!---
