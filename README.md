@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HishamAllam01
+- 👋 Hi, I’m Hisham Allam
 - 👀 I’m interested in Fron-end development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on HTML & CSS & JavaScript
